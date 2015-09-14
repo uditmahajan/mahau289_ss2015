@@ -4,13 +4,10 @@
 
 2. Port and use one of Golan’s functions to GLSL
 
-Polynomial Shaping Functions: www.flong.com/texts/code/shapers_poly
-
-Exponential Shaping Functions: www.flong.com/texts/code/shapers_exp
-
-Circular & Elliptical Shaping Functions: www.flong.com/texts/code/shapers_circ
-
-Bezier and Other Parametric Shaping Functions: www.flong.com/texts/code/shapers_bez
+	Polynomial Shaping Functions: www.flong.com/texts/code/shapers_poly
+	Exponential Shaping Functions: www.flong.com/texts/code/shapers_exp
+	Circular & Elliptical Shaping Functions: www.flong.com/texts/code/shapers_circ
+	Bezier and Other Parametric Shaping Functions: www.flong.com/texts/code/shapers_bez
 
 3. Port and use one of Inigo Quiles “useful function” (http://www.iquilezles.org/www/articles/functions/functions.htm)
 
