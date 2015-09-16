@@ -13,12 +13,12 @@
 	Circular & Elliptical Shaping Functions: www.flong.com/texts/code/shapers_circ
 	Bezier and Other Parametric Shaping Functions: www.flong.com/texts/code/shapers_bez
 
-	Code Folder : golan
+	**Code Folder : golan
 
-	Application of Golan's Polynomial equations. 
+	**Application of Golan's Polynomial equations. 
 	blinn, doubleCubicSeat, doubleCubicSeatWithLinearBlend, doubleOddPolynomialSeat.
 
-	Extra! : circles.frag
+	Extra! : circles.frag**
 
 3. Port and use one of Inigo Quiles “useful function” (http://www.iquilezles.org/www/articles/functions/functions.htm)
 
