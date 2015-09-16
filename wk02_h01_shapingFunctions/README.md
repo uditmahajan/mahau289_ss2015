@@ -2,7 +2,7 @@
 
 1. Take a look at the following table of equations made by Kynd: www.flickr.com/photos/kynd/9546075099/. See how he is combining functions and their properties to control the values between 0.0 and 1.0. Now it’s time for you to practice by replicating each one of these functions on a shader. Remember the more you practice the better your karate will be.
 
-	**<span style="color:red">Code Folder : kynd</span>**
+	**Code Folder : kynd**
 
 	**Video : https://www.youtube.com/watch?v=aIAwDFZwF9A&feature=youtu.be**
 
