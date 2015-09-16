@@ -29,3 +29,9 @@
 4. Using a stationary video camera, make three recordings of three different scenes which have interesting motion (go outside!!!). Pick one point to watch during the video, and sketch out it’s motion path using the software you want (or better, your own software). Should look like this: https://vimeo.com/28644982. Try to find both rhythmic (repetitive) and organic motions. Make simple GLSL functions (like the once on the chapter) to replicate some fragments of those motions.
 
 	Folder : footage
+	
+	Video 1 : https://youtu.be/SI9omdiYlnU
+
+	Video 2 : https://youtu.be/b23Nt86cPSs
+
+	Video 3 : https://youtu.be/3eO6Z-MYoNE
