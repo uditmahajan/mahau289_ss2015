@@ -26,7 +26,7 @@
 
 6. Watch the following works of Leo Villareal and for each one make a shaders that looks like it:
 
-	*https://vimeo.com/119302847
+	*https://vimeo.com/119302847*
 
 		**Folder : Leo Villareal**
 		**1.frag and 1_modified.frag**
