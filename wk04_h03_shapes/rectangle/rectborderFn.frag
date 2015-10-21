@@ -1,3 +1,10 @@
+//////////////////////////////////////////////////////////////// 
+// Udit Mahajan                                               //
+// MFADT Parsons School of Design                             //
+// uditmahajan.com                                            //
+// uditmahajan24@gmail.com                                    //
+////////////////////////////////////////////////////////////////
+
 // Make another function that just draws the outline of a rectangle.
 
 #ifdef GL_ES

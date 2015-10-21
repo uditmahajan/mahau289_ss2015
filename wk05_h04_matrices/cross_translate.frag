@@ -1,3 +1,10 @@
+//////////////////////////////////////////////////////////////// 
+// Udit Mahajan                                               //
+// MFADT Parsons School of Design                             //
+// uditmahajan.com                                            //
+// uditmahajan24@gmail.com                                    //
+////////////////////////////////////////////////////////////////
+
 // Using u_time together with the shaping functions move the small cross around in an interesting way. Search for a specific quality of motion you are interested in and try to make the cross move in the same way. Recording something from the "real world" first might be useful - it could be the coming and going of waves, a pendulum movement, a bouncing ball, a car accelerating, a bicycle stopping.
 
 #ifdef GL_ES

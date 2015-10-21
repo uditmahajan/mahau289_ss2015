@@ -1,3 +1,10 @@
+//////////////////////////////////////////////////////////////// 
+// Udit Mahajan                                               //
+// MFADT Parsons School of Design                             //
+// uditmahajan.com                                            //
+// uditmahajan24@gmail.com                                    //
+////////////////////////////////////////////////////////////////
+
 // Make three compositions using this technique. If they are animated, even better!
 
 #ifdef GL_ES

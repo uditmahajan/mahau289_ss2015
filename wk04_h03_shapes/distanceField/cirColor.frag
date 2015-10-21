@@ -1,3 +1,10 @@
+//////////////////////////////////////////////////////////////// 
+// Udit Mahajan                                               //
+// MFADT Parsons School of Design                             //
+// uditmahajan.com                                            //
+// uditmahajan24@gmail.com                                    //
+////////////////////////////////////////////////////////////////
+
 //Add color to the circle.
 
 #ifdef GL_ES

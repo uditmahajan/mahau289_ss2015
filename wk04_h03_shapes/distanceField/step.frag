@@ -1,3 +1,10 @@
+//////////////////////////////////////////////////////////////// 
+// Udit Mahajan                                               //
+// MFADT Parsons School of Design                             //
+// uditmahajan.com                                            //
+// uditmahajan24@gmail.com                                    //
+////////////////////////////////////////////////////////////////
+
 // Use step() to turn everything above 0.5 to white and everything below to 0.0.
 
 #ifdef GL_ES

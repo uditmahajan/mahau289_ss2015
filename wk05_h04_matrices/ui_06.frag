@@ -1,4 +1,9 @@
-// Author @patriciogv ( patriciogonzalezvivo.com ) - 2015
+//////////////////////////////////////////////////////////////// 
+// Udit Mahajan                                               //
+// MFADT Parsons School of Design                             //
+// uditmahajan.com                                            //
+// uditmahajan24@gmail.com                                    //
+////////////////////////////////////////////////////////////////
 
 #ifdef GL_ES
 precision mediump float;

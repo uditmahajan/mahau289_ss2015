@@ -1,4 +1,9 @@
-// Copyright 2015 Patricio Gonzalez Vivo (http://patriciogonzalezvivo.com)
+//////////////////////////////////////////////////////////////// 
+// Udit Mahajan                                               //
+// MFADT Parsons School of Design                             //
+// uditmahajan.com                                            //
+// uditmahajan24@gmail.com                                    //
+////////////////////////////////////////////////////////////////
 
 PShader shader;
 

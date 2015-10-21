@@ -1,3 +1,10 @@
+//////////////////////////////////////////////////////////////// 
+// Udit Mahajan                                               //
+// MFADT Parsons School of Design                             //
+// uditmahajan.com                                            //
+// uditmahajan24@gmail.com                                    //
+////////////////////////////////////////////////////////////////
+
 // Combine different shaping functions to cut holes in the shape to make flowers, snowflakes and gears. Use the plot() function we were using in the Shaping Functions Chapter to draw just the contour.
 
 #ifdef GL_ES

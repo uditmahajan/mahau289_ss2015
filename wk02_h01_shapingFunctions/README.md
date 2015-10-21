@@ -1,3 +1,10 @@
+//////////////////////////////////////////////////////////////// 
+// Udit Mahajan                                               //
+// MFADT Parsons School of Design                             //
+// uditmahajan.com                                            //
+// uditmahajan24@gmail.com                                    //
+////////////////////////////////////////////////////////////////
+
 # Homework Week 2: 
 
 1. Take a look at the following table of equations made by Kynd: www.flickr.com/photos/kynd/9546075099/. See how he is combining functions and their properties to control the values between 0.0 and 1.0. Now it’s time for you to practice by replicating each one of these functions on a shader. Remember the more you practice the better your karate will be.
