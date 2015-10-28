@@ -7,4 +7,4 @@
 
 **Midterm Project : Animated net art inspired from movies and created through fragment shaders and Threejs**
 
-**Website : uditmahajan.com/movieshaders.html**
+**Website : http://uditmahajan.com/movieshaders.html**
